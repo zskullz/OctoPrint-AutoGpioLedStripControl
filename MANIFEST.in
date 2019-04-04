@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_autoGpioLedStripControl/templates *
+recursive-include octoprint_autoGpioLedStripControl/translations *
+recursive-include octoprint_autoGpioLedStripControl/static *
